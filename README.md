@@ -57,7 +57,7 @@ If we check images we can notice Thomas High School ranking it's different with 
 ## How does replacing the ninth-grade scores affect the following:
 
 ### Math and reading scores by grade
-- Since we delet 9th grade it simply show: NaN
+- Since we delete 9th grade it simply show: NaN
 
 
 
