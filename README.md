@@ -88,4 +88,4 @@ Math
 
 After all the analysis and taking 9th grades off, we can notice THS has decrease several places into the school ranking, also "Average Math Score", "% Passing Math", "% Passing Reading" and "% Overall Passing" were affected. It could be part of the deshonesty showed or just because of taking off several grades. 
 
-With this, school board can look foward to adjust new rules and delimitations to get more precise scores and also consequences if dishonesty in grades responsible.  
+With all this, school board can look foward to adjust new rules and delimitations to get more precise scores and also consequences if dishonesty in grades responsible.  
